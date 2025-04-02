@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "45NPXDDZC6.com.example.universal.links.app.ios-universal-links-app",
+        "appID": "Y263JSM36W.com.example.universal.links.app.ios-universal-link",
         "paths": [ "/open/*" ]
       }
     ]
