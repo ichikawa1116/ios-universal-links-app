@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "45NPXDDZC6.com.example.universal.links.app.ios-universal-links-app",
+        "paths": [ "/open/*" ]
+      }
+    ]
+  }
+}
